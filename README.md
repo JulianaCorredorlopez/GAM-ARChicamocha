@@ -136,6 +136,35 @@ AR-PanelSolar/
 Este proyecto surge como herramienta de divulgación de una iniciativa sostenible que combina **energía solar** y **captación de agua mediante atrapanieblas**. La Realidad Aumentada permite comunicar de forma visual e interactiva tanto el funcionamiento del sistema como los datos recolectados.
 
 ---
+| Módulo | Descarga |
+|---|---|
+| Juego AR | [Descargar APK](https://github.com/JulianaCorredorlopez/GAM-ARChicamocha/releases/download/v1.0/juego-ar.apk) |
+| Estadísticas AR | [Descargar APK](https://github.com/JulianaCorredorlopez/GAM-ARChicamocha/releases/download/v1.0/stats-ar.apk) |
+```
+
+---
+
+## 🖼️ Imágenes y marcadores
+Estas sí van directo en el repo dentro de la carpeta `docs/images/`.
+
+**Desde la web de GitHub:**
+1. Entra al repo
+2. Navega a `docs/images/game/` (si no existe, la creas)
+3. **Add file → Upload files**
+4. Sube tus screenshots, fotos y el marcador
+5. Commit ✅
+
+**Estructura recomendada:**
+```
+docs/
+└── images/
+    ├── marker.png          ← imagen del marcador para imprimir
+    ├── game/
+    │   ├── gameplay.png
+    │   └── score.png
+    └── stats/
+        ├── charts3d.png
+        └── overview.png
 
 
 <div align="center">
