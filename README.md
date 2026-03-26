@@ -139,7 +139,7 @@ Este proyecto surge como herramienta de divulgación de una iniciativa sostenibl
 | Módulo | Descarga |
 |---|---|
 | Juego AR | [Descargar APK](https://github.com/JulianaCorredorlopez/GAM-ARChicamocha/releases/tag/ARPanelSolarV1.0/ARJuegoTimer.apk) |
-| Estadísticas AR | [Descargar APK](https://github.com/JulianaCorredorlopez/GAM-ARChicamocha/releases/download/v1.0/stats-ar.apk) |
+| Estadísticas AR | [Descargar APK](https://github.com/JulianaCorredorlopez/GAM-ARChicamocha/releases/tag/ARGraficasV1.0/ARGraficas.apk) |
 ```
 
 ---
